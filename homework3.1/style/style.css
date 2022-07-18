@@ -1,0 +1,30 @@
+body{
+    background-color: aqua;
+}
+.personal{
+    text-align: center;
+    width:15px 20px;
+    color: rgba(0, 0, 0, 0.671);
+    background-color: white;
+}
+.team{
+    text-align: center;
+    width:15px 20px;
+    color: rgba(0, 0, 0, 0.671);
+    background-color: white;
+}
+.team h1{
+    color: gold;
+}
+.CORPORATE{
+    background-color: white;
+    text-align: center;
+    width:15px 20px;
+    color: rgba(0, 0, 0, 0.671);
+}
+.CORPORATE h1{
+    color: purple;
+}
+#homework{
+    background-color: white;
+}

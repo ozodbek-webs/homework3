@@ -1,0 +1,26 @@
+
+body{
+    background-color: aqua;
+    color: blue;
+    line-height: 1.6;
+}
+.personal{
+    text-align: center;
+    width:15px 20px;
+    background-color: white;
+}
+.team{
+    text-align: center;
+    width:15px 20px;
+    background-color: white;
+}
+.CORPORATE{
+    background-color: white;
+    text-align: center;
+    width:15px 20px;
+}
+#homework{
+    background-color: white;
+}
+.sea{font-size: 10px;}
+.clear{font-size: 35px}
